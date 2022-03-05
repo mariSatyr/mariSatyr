@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariSatyr
+- 👋 Hi, I’m Maura Sateriale
 - 👀 I’m interested in getting a job in data science
 - 🌱 I’m currently learning how to do cool things with stock prices
 - 💞️ I’m looking to collaborate on bigger data science projects
